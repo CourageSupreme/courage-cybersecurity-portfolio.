@@ -4,7 +4,7 @@ Welcome to my ethical cybersecurity journey.
 
 ## 👋 About Me
 
-Born and raised in Nigeria, I had little access to computers growing up—but I never lacked curiosity or drive. I taught myself personal training, built a coaching business in Dubai and subsequently in NYC, and earned certifications from Active IQ and NASM. I’ve completed CPD courses in:
+Born and raised in Nigeria, I had little access to computers growing up - but I never lacked curiosity or drive. I taught myself personal training, built a coaching business as a Fitness Trainer in Dubai and subsequently scaled to online coaching - now based in NYC, and earned certifications from Active IQ and NASM. I’ve completed CPD courses in:
 
 - Trigger Point Therapy  
 - Functional Stick Mobility  
@@ -13,7 +13,7 @@ Born and raised in Nigeria, I had little access to computers growing up—but I 
 - NASM Stretch & Flexibility Coach  
 - and currently completing the NASM Corrective Exercise Specialist  
 
-Each step reflected my commitment to learning and serving others.
+Each step reflects my commitment to continous learning and serving others.
 
 ## 🔐 Why Cybersecurity?
 
