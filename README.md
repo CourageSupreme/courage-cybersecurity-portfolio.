@@ -11,7 +11,7 @@ Born and raised in Nigeria, I had little access to computers growing up—but I 
 - NASM Nutrition  
 - Advanced Boxing for Fitness  
 - NASM Stretch & Flexibility Coach  
-- NASM Corrective Exercise Specialist  
+and currently completing the NASM Corrective Exercise Specialist  
 
 Each step reflected my commitment to learning and serving others.
 
