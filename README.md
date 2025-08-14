@@ -11,9 +11,11 @@ Born and raised in Nigeria, I had little access to computers growing up - but I 
 - NASM Nutrition  
 - Advanced Boxing for Fitness  
 - NASM Stretch & Flexibility Coach  
-- and currently completing the NASM Corrective Exercise Specialist  
+- NASM Corrective Exercise Specialist
+- I had just concluded the Google Cybersecurity professional certificate credential
+- Next up is the compTIA security+ certificate 
 
-Each step reflects my commitment to continous learning and serving others.
+Each step reflects my commitment to continous learning and dedication to serving others more effectively.
 
 ## 🔐 Why Cybersecurity?
 
